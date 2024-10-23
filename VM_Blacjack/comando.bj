@@ -1,0 +1,8 @@
+push_cartas
+swap
+set_apuesta $40
+pop_alternado
+pop_jugador
+pop_crupier
+ganador
+
